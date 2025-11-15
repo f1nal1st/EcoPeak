@@ -1,0 +1,51 @@
+/* MARGINS */
+
+.margin-top-20{
+    margin-top: 20px;
+}
+.margin-top-50{
+    margin-top: 50px;
+}
+
+/* FLEX-HORIZONTAL */
+
+.flex-h-center-10{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.flex-h-center-20{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.flex-h-center-50{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+/* PADDINGS */
+
+.padding-top-120{
+    padding-top: 120px;
+}
+.padding-top-150{
+    padding-top: 150px;
+}
+
+.padding-homepage-h1{
+    padding-top: 120px;
+}
+
+/* COLORS */
+
+.blue{
+    color: #387EA9;
+}
+.green{
+    color: #007439;
+}
+.white{
+    color: white;
+}

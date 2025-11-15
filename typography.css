@@ -1,0 +1,47 @@
+h1{
+    font-family: 'Montserrat';
+    font-size: 130px;
+    line-height: 120px;
+    font-weight: 700;
+    width: 1200px;
+    color: white;
+}
+h2{
+    font-family: 'Montserrat';
+    font-size: 40px;
+    font-weight: 700;
+}
+h3{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 32px;
+}
+p{
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-weight: 500;
+}
+.button-text{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 28px;
+    font-size: 18px;
+}
+.product-name-text{
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 700;
+}
+.product-price-text{
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+}
+.product-last_price-text{
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 300;
+    text-decoration: line-through;
+    color: #73797B;
+}
